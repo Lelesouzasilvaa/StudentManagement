@@ -9,22 +9,22 @@ O objetivo do projeto é demonstrar a separação clara entre regras de negócio
 O projeto está organizado nas seguintes camadas:
 
 Domain </br>
-├─ Entities
-│ └─ Student.cs
-└─ Interfaces
-└─ IStudentRepository.cs
+├─ Entities </br>
+│ └─ Student.cs </br>
+└─ Interfaces </br>
+└─ IStudentRepository.cs </br>
 
-Application
-└─ Services
-└─ StudentService.cs
+Application </br>
+└─ Services </br>
+└─ StudentService.cs</br>
 
-Infrastructure
-└─ Repositories
-└─ StudentRepository.cs
+Infrastructure</br>
+└─ Repositories</br>
+└─ StudentRepository.cs</br>
 
-API
-└─ Controllers
-└─ StudentController.cs
+API</br>
+└─ Controllers</br>
+└─ StudentController.cs</br>
 
 ### Domain
 Contém os elementos centrais da aplicação.
