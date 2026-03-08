@@ -8,7 +8,7 @@ O objetivo do projeto é demonstrar a separação clara entre regras de negócio
 
 O projeto está organizado nas seguintes camadas:
 
-Domain
+Domain </br>
 ├─ Entities
 │ └─ Student.cs
 └─ Interfaces
